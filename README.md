@@ -8,7 +8,6 @@
 3. Specify the audio file to be transcribed by providing the appropriate file path
 
 4. Navigate to the directory of the project and run the application using :
-    ```python Loader.py
-    ```
-
+    ```python Loader.py```
+    
 5. The transcripts will be populated in the 'transcript.txt' file.
